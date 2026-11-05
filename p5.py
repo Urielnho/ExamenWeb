@@ -7,6 +7,33 @@ url = "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/mpg.csv"
 df = pd.read_csv(url)
 pd.set_option("display.max_columns", None)
 
+
+
+#######cambios 
+#######cambios 
+
+#######cambios 
+
+#######cambios 
+
+#######cambios 
+
+#######cambios 
+
+#######cambios 
+
+v
+#######cambios 
+
+#######cambios 
+
+#######cambios 
+
+#######cambios 
+
+
+
+
 print("\nPrimeros 10 registros:")
 print(df.head(10))
 print("\nDimensiones:", df.shape)
